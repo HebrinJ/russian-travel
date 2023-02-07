@@ -1,0 +1,10 @@
+.final__text {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 32px;
+}

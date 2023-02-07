@@ -1,0 +1,6 @@
+.description {
+    max-width: 690px;
+    /* margin: auto; */
+
+    grid-column: 3;
+}

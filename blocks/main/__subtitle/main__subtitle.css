@@ -1,0 +1,10 @@
+.main__subtitle {
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    max-width: 640px;
+    margin: auto;
+    padding-top: 32px;
+    padding-bottom: 64px;
+}

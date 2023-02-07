@@ -1,0 +1,8 @@
+.main {
+    max-width: 984px;
+    margin: auto;
+    /* padding-top: 56px;
+    padding-bottom: 92px; */
+
+    grid-column: 3;
+}

@@ -1,0 +1,6 @@
+.header__links {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    bottom: 3px;
+}
