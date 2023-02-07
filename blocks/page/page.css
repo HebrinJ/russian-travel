@@ -6,7 +6,8 @@
     background-color: #2a2c2f;
 
     display: grid;
-    grid-template-columns: 48px 100px 984px 100px 48px;
+    /* grid-template-columns: 48px 100px 984px 100px 48px; */
+    grid-template-columns: 1fr 2fr 20fr 2fr 1fr;
     grid-template-rows: auto;
     row-gap: 92px;
 }
