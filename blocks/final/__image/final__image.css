@@ -1,3 +1,4 @@
 .final__image {
     filter: brightness(70%);
+    width: 100%; 
 }

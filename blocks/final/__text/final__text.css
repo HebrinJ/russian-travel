@@ -8,3 +8,10 @@
     margin: 0 auto;
     padding-top: 32px;
 }
+
+@media screen and (max-width: 767px) {
+    .final__text {
+        font-size: 14px;
+        padding-top: 16px;
+    }
+}

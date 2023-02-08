@@ -5,8 +5,13 @@
     grid-row: 1;
 }
 
-@media screen and (max-width: 1279px) {
+/* @media screen and (max-width: 1279px) {
     .header{
         grid-column: 3;
+    }
+} */
+@media screen and (max-width: 1279px) {
+    .header{
+        grid-column: 2;
     }
 }

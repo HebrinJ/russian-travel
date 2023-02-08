@@ -1,0 +1,11 @@
+.main__image-container {
+    max-width: 984px;
+    max-height: 615px;
+    margin: 0;
+}
+
+/* @media screen and (max-width: 1023px) {
+    .main__image-container{
+        grid-column: 1/4;
+    }
+} */

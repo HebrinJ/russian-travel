@@ -5,3 +5,15 @@
     row-gap: 48px;
     padding-bottom: 80px;
 }
+
+.place:last-of-type
+{
+    padding-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .place {
+        grid-template-columns: 16px 1fr 16px;
+        row-gap: 32px;
+    }
+}
