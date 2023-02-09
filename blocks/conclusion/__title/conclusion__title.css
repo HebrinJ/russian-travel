@@ -1,4 +1,4 @@
-.final__title {
+.conclusion__title {
     margin: 0;
     font-size: 72px;
     font-weight: 900;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .final__title{
+    .conclusion__title{
         font-size: 32px;
         line-height: 35px;
     }

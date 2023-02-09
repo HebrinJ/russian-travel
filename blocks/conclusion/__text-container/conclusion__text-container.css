@@ -1,4 +1,4 @@
-.final__text-container {
+.conclusion__text-container {
     position: absolute;
     display: inline;
     top: 50%;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .final__text-container {
+    .conclusion__text-container {
         min-width: 288px;
         min-height: 134px;
     }

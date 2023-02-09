@@ -1,10 +1,10 @@
-.final {
+.conclusion {
     grid-column: 2/5;
     position: relative;
 }
 
 @media screen and (max-width: 1279px) {
-    .final{
+    .conclusion {
         grid-column: 1/4;
     }
 }
