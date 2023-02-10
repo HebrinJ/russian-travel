@@ -4,6 +4,9 @@
     line-height: 18px;
     text-decoration: none;
     color: white;
-    margin: 0;
-    padding-right: 18px;
+    margin: 0;    
+}
+
+.footer__link:hover {
+    color: #ffffffcc;
 }
