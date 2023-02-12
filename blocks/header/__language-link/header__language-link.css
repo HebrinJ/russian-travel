@@ -6,8 +6,8 @@
     margin-left: 5px;
 }
 
-.header__language-link:focus {
-    text-decoration: underline;
+.header__language-link:hover {
+    color: #ffffffcc;
 }
 
 @media screen and (max-width: 767px) {

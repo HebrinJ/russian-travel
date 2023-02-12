@@ -5,6 +5,7 @@
     width: 100%;
     height: 100%;
     background-color: #2a2c2f4d;
+    transition: background-color .5s linear;    
 }
 
 .conclusion__overlay:hover {

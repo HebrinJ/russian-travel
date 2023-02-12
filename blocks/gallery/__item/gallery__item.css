@@ -1,6 +1,5 @@
-.header__item {
+.gallery__item {
     margin: 0;
     padding: 0;
-    display: inline;
     list-style: none;
 }

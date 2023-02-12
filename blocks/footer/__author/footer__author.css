@@ -4,14 +4,11 @@
     line-height: 18px;
     color: white;
     margin: 0;
-    position: absolute;
-    right: 0;
-    top: 0;
 }
 
-@media screen and (max-width: 676px) {
+@media screen and (max-width: 767px) {
     .footer__author {        
         position: relative;
-        padding-top: 16px;
+        padding-top: 48px;
     }
 }

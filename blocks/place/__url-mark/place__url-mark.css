@@ -1,4 +1,6 @@
 .place__url-mark {
+    margin: 0;
+    padding-bottom: 12px;
     font-size: 12px;
     line-height: 1.7;
     color: #AAA;

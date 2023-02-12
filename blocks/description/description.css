@@ -1,19 +1,16 @@
 .description {
     max-width: 690px;
-    /* margin: auto; */
-
     grid-column: 3;
 }
 
 @media screen and (max-width: 1279px) {
-    .description{
+    .description {
         grid-column: 2;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .description{
-        grid-column: 2;
+    .description {        
         max-width: 720px;
         margin: auto;
     }

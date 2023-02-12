@@ -20,6 +20,7 @@
 @media screen and (max-width: 1023px) {
     .page {
         grid-template-columns: minmax(24px, 48px) minmax(720px, 928px) minmax(24px, 48px);
+        row-gap: 88px;
     }
 }
 

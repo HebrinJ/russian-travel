@@ -1,16 +1,28 @@
 .conclusion__title {
     margin: 0;
+    grid-column: 2;
+    grid-row: 2;
+
+    display: block;
+
     font-size: 72px;
     font-weight: 900;
     line-height: 76px;
     color: white;
     text-align: center;
-    max-width: 560px;
-    margin: 0 auto;    
+    margin: 0 auto;   
+    z-index: 1; 
 }
 
 @media screen and (max-width: 767px) {
-    .conclusion__title{
+    .conclusion__title {        
+        font-size: calc(100vw / 11);
+        line-height: calc(100vw / 11);
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .conclusion__title {
         font-size: 32px;
         line-height: 35px;
     }
