@@ -4,9 +4,14 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .conclusion {
-        margin-top: 2px;
+    .conclusion {        
         grid-column: 1/4;
         min-height: calc(100vw / 1.6);
+    }
+}
+
+@media screen and (width: 768px) {
+    .conclusion {        
+        margin-top: -8px;
     }
 }

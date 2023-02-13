@@ -4,7 +4,19 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .gallery{
+    .gallery {
         grid-column: 2;
+    }
+}
+
+@media screen and (width: 1024px) {
+    .gallery {
+        max-width: 928px;
+    }
+}
+
+@media screen and (width: 768px) {
+    .gallery {
+        max-width: 720px;
     }
 }
