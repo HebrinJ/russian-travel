@@ -9,9 +9,3 @@
         min-height: calc(100vw / 1.6);
     }
 }
-
-@media screen and (width: 768px) {
-    .conclusion {        
-        margin-top: -8px;
-    }
-}
